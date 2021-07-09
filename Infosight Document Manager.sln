@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.223
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "Infosight Document Manager (Package)", "Infosight Document Manager\Infosight Document Manager (Package)\Infosight Document Manager (Package).wapproj", "{8700AF83-03B2-4EFF-92F4-EC994CE12D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infosight Document Manager", "Infosight Document Manager\Infosight Document Manager\Infosight Document Manager.csproj", "{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Debug|arm64.ActiveCfg = Debug|arm64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Debug|arm64.Build.0 = Debug|arm64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Debug|arm64.Deploy.0 = Debug|arm64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Debug|x64.ActiveCfg = Debug|x64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Debug|x64.Build.0 = Debug|x64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Debug|x64.Deploy.0 = Debug|x64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Debug|x86.ActiveCfg = Debug|x86
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Debug|x86.Build.0 = Debug|x86
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Debug|x86.Deploy.0 = Debug|x86
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Release|arm64.ActiveCfg = Release|arm64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Release|arm64.Build.0 = Release|arm64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Release|arm64.Deploy.0 = Release|arm64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Release|x64.ActiveCfg = Release|x64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Release|x64.Build.0 = Release|x64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Release|x64.Deploy.0 = Release|x64
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Release|x86.ActiveCfg = Release|x86
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Release|x86.Build.0 = Release|x86
+		{8700AF83-03B2-4EFF-92F4-EC994CE12D69}.Release|x86.Deploy.0 = Release|x86
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Debug|arm64.ActiveCfg = Debug|arm64
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Debug|arm64.Build.0 = Debug|arm64
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Debug|x64.ActiveCfg = Debug|x64
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Debug|x64.Build.0 = Debug|x64
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Debug|x86.ActiveCfg = Debug|x86
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Debug|x86.Build.0 = Debug|x86
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Release|arm64.ActiveCfg = Release|arm64
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Release|arm64.Build.0 = Release|arm64
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Release|x64.ActiveCfg = Release|x64
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Release|x64.Build.0 = Release|x64
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Release|x86.ActiveCfg = Release|x86
+		{5A8C5104-36B7-4417-A0F8-F8840BB2F3BE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB90D7C-A327-421B-A0B0-517E0F10244E}
+	EndGlobalSection
+EndGlobal
